@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on open source development and competitive programming<br><br>🌱 I’m currently learning react native<br><br>👯 I’m looking to collaborate on some open source project<br><br>👨‍💻 My recent project : https://game-z-o-n-e.netlify.app/<br><br>💬 Ask me about Mern stack , app development mainly cross platform<br><br>📫 How to reach me 70449874suman@gmail.com<br><br>⚡ Fun fact I think I am funny 🤣😅🤣
+🔭 I’m currently working on open source development and competitive programming<br><br>🌱 I’m currently learning react native<br><br>👯 I’m looking to collaborate on some open source project<br><br>👨‍💻 My recent project : https://game-z-o-n-e.netlify.app/ (currently not working due to server part hosting issue) <br><br>💬 Ask me about Mern stack , app development mainly cross platform<br><br>📫 How to reach me 70449874suman@gmail.com<br><br>⚡ Fun fact I think I am funny 🤣😅🤣
 
 
 ## 🌐 Socials:
