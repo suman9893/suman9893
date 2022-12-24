@@ -1,7 +1,8 @@
 ![logo](https://github.com/suman9893/suman9893/blob/main/Coder.jpg)
 <h1 align="center">Hi 👋 there, I'm Suman Mondal</h1>
 <h3 align="center">Currently a student, learner, coder and will be learner and coder</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/suman9893/suman9893/blob/main/upload%20gif%20readme.gif"/>
+<br/>
+<img align="right" alt="coding" width="400" src="https://github.com/suman9893/suman9893/blob/main/upload%20gif%20readme.gif"/><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman9893&label=Profile%20views&color=0e75b6&style=flat" alt="suman9893" /> </p>
 
