@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **some open source project**
 
-- 👨‍💻 My recent project (currently not working due to server site hosting) [https://game-z-o-n-e.netlify.app/](https://game-z-o-n-e.netlify.app/)
+- 👨‍💻 My recent project [https://game-z-o-n-e.netlify.app/](https://game-z-o-n-e.netlify.app/)
 
 - 💬 Ask me about **mern stack , app development mainly cross platform**
 
