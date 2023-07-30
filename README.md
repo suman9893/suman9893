@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 👯 I’m looking to collaborate on **some open source project**
+- 👯 I’m looking for an **internship**
 
 - 👨‍💻 My recent project [https://game-z-o-n-e.netlify.app/](https://game-z-o-n-e.netlify.app/)
 
-- 💬 Ask me about **mern stack , app development mainly cross platform**
+- 💬 Ask me about **web development, app development mainly cross platform**
 
 - 📫 How to reach me **70449874suman@gmail.com**
 
