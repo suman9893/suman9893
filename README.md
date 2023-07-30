@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman9893&label=Profile%20views&color=0e75b6&style=flat" alt="suman9893" /> </p>
 
-- 🔭 I’m currently working on **open source development and competitive programming**
+- 🔭 I’m currently working on **open source development**
 
 - 🌱 I’m currently learning **react native**
 
