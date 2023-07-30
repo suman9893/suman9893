@@ -14,7 +14,7 @@
 
 - 👨‍💻 My recent project [https://game-z-o-n-e.netlify.app/](https://game-z-o-n-e.netlify.app/)
 
-- 💬 Ask me about **web development, app development mainly cross platform**
+- 💬 Ask me about **web development, app development**
 
 - 📫 How to reach me **70449874suman@gmail.com**
 
